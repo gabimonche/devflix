@@ -1,0 +1,156 @@
+ body {
+    background-color: black;
+ }
+ .logo {
+    text-align: center;
+ }
+
+ #inicio{
+    background-color: black;
+ }
+
+h1{
+    position: absolute;
+width: 588px;
+height: 67.01px;
+left: 100px;
+top: 213.48px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 700;
+font-size: 28px;
+line-height: 34px;
+text-align: center;
+
+color: #FFFFFF;
+} 
+
+ .combo{
+    position: absolute;
+    width: 636px;
+    height: 135px;
+    left: 96px;
+    top: 316px;
+    color: white;
+    font-family: 'Inter', sans-serif;
+ }
+
+ .assinar{
+    position: relative;
+    width: 512px;
+    height: 56px;
+    left: 56px;
+    background: #009748;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+    margin-bottom: 10px;
+ }
+
+ .somente{
+    position: relative;
+    width: 512px;
+    height: 56px;
+    left: 56px;
+    background: #009748;
+    border-radius: 8px;
+    text-align: center;
+    color: white;
+ }
+
+ .p1{
+    font-family: 'Inter', sans-serif;
+    font-size: 12px;
+    position: relative;
+    left: 112px;
+    color: #c0c0c0;   
+ }
+
+ #body2{
+    background-color: #222634;
+    position: absolute;
+    width: 1518px;
+    height: 900px;
+    left: 0px;
+    top: 901px;
+ }
+ h2 {
+
+ position: absolute;
+ right: 300px;
+ top: 350px;
+ font-family: 'Inter', sans-serif;
+ font-size: 48px;
+ color: white;
+}
+
+
+.p2 {
+ font-family: 'Inter', sans-serif;
+ font-size: 16px;
+ color: white;
+
+}
+.txt {
+ position: absolute;
+ right: 200px;
+ top: 450px;
+ font-family: 'Inter', sans-serif;
+ font-size: 48px;
+}
+
+.img {position: absolute;
+ right: 750px;
+ top: 270px;}
+
+ #body3 {
+ background-color: #000000;
+ position: absolute;
+ width: 1518px;
+ height: 900px;
+ left: 0px;
+ top: 1802px;
+
+}
+.p3 {
+ font-family: 'Inter', sans-serif;
+ font-size: 16px;
+ color: white;
+ text-align: center;
+}
+
+.botao3 {
+ padding: 16px;
+ gap: 16px;
+ position: absolute;
+ width: 512px;
+ height: 56px;
+ left: 59px;
+ align-items: center;
+ background: #009748;
+ border-radius: 8px;
+}
+
+.position1 {
+ position: absolute;
+ width: 636px;
+ height: 135px;
+ left: 145px;
+ top: 300px;
+}
+
+.img3 {
+ position: absolute;
+ left: 728px;
+ top: -40px;
+}
+
+ h3 {
+ font-family: 'Inter', sans-serif;
+ font-size: 48px;
+ color: white;
+ left: 780px;
+ top: 340px;
+ position: absolute;
+}
